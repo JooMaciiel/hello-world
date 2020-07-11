@@ -5,7 +5,7 @@ JAO's(me) Student-Work-Training-Social-Life-Project
    Student of Software Engineer
    I'm From Brazil
    Working & Training & Studying
-   in Software Devlopment
+   in Software Development
    Nice to meet you all
 */
 
